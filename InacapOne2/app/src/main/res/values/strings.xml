@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InacapOne 2</string>
+    <string name="txt_titulo">Calculo peso ideal</string>
+    <string name="edt_nombre">Ingrese nombre</string>
+    <string name="edt_edad">Ingrese edad</string>
+    <string name="edt_pesoActual">Ingrese peso actual</string>
+    <string name="btn_calcular">Calcular</string>
+</resources>
